@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name" translatable="false">Literates</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="bmc_name" translatable="false">Bunkar Mitra</string>next
+
+    <string name="label_welcome" translatable="false">वेलकम</string>
+    <string name="label_username" translatable="false">यूजरनेम</string>
+    <string name="label_password" translatable="false">पासवर्ड</string>
+    <string name="label_current_password" translatable="false">Current Password</string>
+    <string name="label_new_password" translatable="false">New Password</string>
+    <string name="label_confirm_new_password" translatable="false">Confirm New Password</string>
+    <string name="btn_submit" translatable="false">सबमिट</string>
+    <string name="btn_login" translatable="false">लॉगिन करें</string>
+    <string name="msg_enter_username" translatable="false">Please Enter Username.</string>
+    <string name="msg_enter_password" translatable="false">Please Enter Password.</string>
+    <string name="btn_ok" translatable="false">OK</string>
+    <string name="btn_dismiss" translatable="false">Dismiss</string>
+    <string name="label_chart" translatable="false">Grievance Chart</string>
+    <string name="label_open" translatable="false">खुली शिकायतें</string>
+    <string name="label_work_inprogress" translatable="false">लंबित शिकायतें</string>
+    <string name="label_partially_close" translatable="false">निराकृत शिकायतें</string>
+    <string name="label_close" translatable="false">बंद शिकायते</string>
+    <string name="label_complaint_no" translatable="false">Complaint No</string>
+    <string name="label_department" translatable="false">Department</string>
+    <string name="label_scheme_name" translatable="false">Scheme Name</string>
+
+    <string-array name="main_options" translatable="false">
+        <item>Open Grievance</item>
+        <item>Work in progrss</item>
+        <item>Partially Close</item>
+        <item>Closed</item>
+    </string-array>
+
+    <string-array name="slide_oprtions" translatable="false">
+        <item>Home</item>
+        <item>Articals</item>
+        <item>Events</item>
+        <item>Add events</item>
+        <item>Purchase</item>
+        <item>Order history</item>
+        <item>About us</item>
+        <item>Logout</item>
+        <item>Exit</item>
+    </string-array>
+
+
+    <!-- Strings relate             d to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password (optional)</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false"> "Contacts permissions are needed for providing email completions."</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Handloom fabrics!</string>
+    <string name="slide_1_desc">Handloom fabrics and handloom weavers form an integral part of the rich culture, heritage and tradition of India!</string>
+
+    <string name="slide_2_title">Handloom weavers</string>
+    <string name="slide_2_desc">Handloom fabrics and handloom weavers form an integral part of the rich culture, heritage and tradition of India!</string>
+
+    <string name="slide_3_title">Handloom culture</string>
+    <string name="slide_3_desc">Handloom fabrics and handloom weavers form an integral part of the rich culture, heritage and tradition of India!</string>
+
+    <string name="slide_4_title">Handloom tradition</string>
+    <string name="slide_4_desc">Handloom fabrics and handloom weavers form an integral part of the rich culture, heritage and tradition of India!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 complaints</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup_link">Don\'t have an account? Sign up</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin_link">Already have an account? Sign in</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="remember_password">Remember your password? Login</string>
+    <string name="txt_items">item(s)</string>
+
+
+    <!--profile preferences-->
+    <string name="pref_group_profile">PROFILE</string>
+    <string name="pref_title_name">Name</string>
+    <string name="pref_title_email">Email</string>
+    <string name="pref_title_phone">Phone Number</string>
+    <string name="pref_title_address">Address</string>
+    <string name="default_your_name">Your Name</string>
+    <string name="default_your_email">your.email@gmail.com</string>
+    <string name="default_your_phone">+919993412123</string>
+    <string name="default_your_address">Your Address</string>
+    <string name="pref_msg_invalid_name">Invalid Name Input</string>
+    <string name="pref_msg_invalid_email">Invalid Email Input</string>
+    <string name="pref_msg_invalid_phone">Invalid Phone Input</string>
+    <string name="pref_msg_invalid_address">Invalid Address Input</string>
+
+
+    <string name="failed_fetch_data">Could not fetch the data! Pleas try again.</string>
+    <!--network-->
+    <string name="no_internet">Please, enable internet connection before using this app</string>
+
+    <string name="search_query_text">Search&#8230;</string>
+    <string name="confirm">Confirmation</string>
+    <string name="number_order">Number of order : </string>
+    <string name="clear_all_order">Do you want to clear your all order?</string>
+    <string name="clear_one_order">Do you want to clear this order?</string>
+    <string name="db_exist_alert">Do you want to remove your previous order?</string>
+    <string name="msg_empty_cart">Your cart is empty!</string>
+    <string name="msg_no_history">Your order history is empty!</string>
+    <string name="empty_cart">Whoops, your cart is empty</string>
+    <string name="btn_continue_shopping">Continue Shopping</string>
+    <string name="btn_add_to_cart">ADD TO CART</string>
+    <string name="btn_out_of_stock">OUT OF STOCK</string>
+    <string name="msg_stock_not_enough">Stock is not enough</string>
+    <string name="msg_stock_below_0">product quantity cannot be 0</string>
+    <string name="msg_success_add_cart">Success add Product to cart</string>
+    <string name="btn_checkout">Checkout</string>
+
+
+    <!--dialog choose option-->
+    <string name="dialog_option_yes">Yes</string>
+    <string name="dialog_option_no">No</string>
+    <string name="dialog_option_cancel">Cancel</string>
+    <string name="dialog_option_add">Add</string>
+    <string name="dialog_settings">GOTO SETTINGS</string>
+    <string name="msg_exit">Press again to exit app</string>
+    <string name="title_img_save">Save</string>
+    <string name="title_img_close">Close</string>
+    <string name="msg_copy">Purchase code copied</string>
+    <string name="btn_edit_profile">EDIT</string>
+    <string name="txt_profile_history">Order History</string>
+    <string name="txt_profile_rate">Rate Us</string>
+    <string name="txt_profile_privacy">Privacy Policy</string>
+    <string name="txt_total_order">Total Order</string>
+    <string name="txt_profile_share">Share</string>
+
+
+    <!--action-->
+    <string name="action_cart">My Cart</string>
+    <string name="action_clear">Clear All</string>
+
+    <!--permission-->
+    <string name="permission_msg">Need Permissions</string>
+    <string name="permission_storage">This app needs access storage to download the image</string>
+    <string name="download_success">Image has been downloaded and saved on gallery.</string>
+    <string name="download_msg">Downloading&#8230;</string>
+    <string name="loading_msg">Please Wait&#8230;</string>
+
+    <!--share text-->
+    <string name="share_app">I Would like to share this E-Commerce Android App with you. Here You Can Download This Application from PlayStore</string>
+    <string name="share_product_section_one">Find</string>
+    <string name="share_product_section_two">with price</string>
+    <string name="share_product_section_three">! Get it now in E-Commerce Android App!</string>
+
+    <!--title bar-->
+    <string name="title_cart">Shopping Cart</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="title_add_address">Address</string>
+
+    <!--checkout menu-->
+    <string name="checkout_your_name">Your Name</string>
+    <string name="checkout_email">Your Email</string>
+    <string name="checkout_phone_number">Phone Number</string>
+
+    <string name="checkout_zipcode">Zip code</string>
+
+
+    <string name="checkout_order_list">Order Detail</string>
+    <string name="checkout_add_comment">Comment</string>
+    <string name="no_order_menu">No order</string>
+    <string name="txt_order">Order :</string>
+    <string name="txt_tax">Tax :</string>
+    <string name="txt_total">Total :</string>
+    <string name="txt_shipping">Shipping</string>
+    <string name="checkout_fill_form">please complete fill the form first!</string>
+    <string name="checkout_dialog_title">Process Checkout</string>
+    <string name="checkout_dialog_msg">Are you sure want to checkout?</string>
+    <string name="checkout_submit_title">Please wait</string>
+    <string name="checkout_submit_msg">Submit your order&#8230;</string>
+    <string name="checkout_success_title">Congratulation</string>
+    <string name="checkout_success_msg">Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready.</string>
+    <string name="checkout_option_ok">OK</string>
+    <string name="checkout_address">Address</string>
+    <string name="checkout_shipping">Shipping</string>
+    <string name="title_history">Order History</string>
+    <string name="title_profile">User Profile</string>
+    <string name="btn_process_checkout">PROCESS CHECKOUT</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="submit">Submit</string>
+    <string name="msg_name">Please Enter Name</string>
+    <string name="msg_dob">Please Select your Date of Birth</string>
+    <string name="msg_mobile_no">Please Enter Mobile No</string>
+    <string name="msg_email_id">Please Enter email Id</string>
+    <string name="msg_pin_code">Please Enter Pincode</string>
+    <string name="password">Password</string>
+    <string name="cnf_password">Confirm Password</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+
+    <string name="msg_password">Please Password</string>
+    <string name="msg_confirm_password">Please Confirm Password</string>
+    <string name="msg_pass_not_match">Password not Match</string>
+    <string name="user_first_name">First name</string>
+    <string name="user_last_name">Last name</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="label_dismiss">Dismiss</string>
+    <string name="progress_message">Please wait</string>
+</resources>
